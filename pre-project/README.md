@@ -2,7 +2,7 @@
 
 ## Description:bulb:
 
-Write the appropiate HTML to make it look like the following
+Write the appropiate HTML and CSS to make it look like the following
 
 ![Final result](https://coursework.vschool.io/content/images/2015/07/exercise1-solution.png#thumbnail)
 
@@ -13,6 +13,7 @@ Write the appropiate HTML to make it look like the following
 [![GNU_Bash](https://img.shields.io/badge/≡-GNU_Bash-4EAA25?logo=GNU-Bash&style=flat-square&labelColor=282828)](https://www.gnu.org/software/bash/)
 [![Vim](https://img.shields.io/badge/≡-Vim-019733?logo=Vim&style=flat-square&logoColor=019733&labelColor=282828)](https://www.vim.org/)
 [![VS_Code](https://img.shields.io/badge/≡-VS_Code-007ACC?logo=visual-studio-code&style=flat-square&logoColor=007ACC&labelColor=282828)](https://code.visualstudio.com/)
+[![CSS3](https://img.shields.io/badge/≡-CSS3-1572B6?logo=css3&style=flat-square&logoColor=1572B6&labelColor=282828)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![GitHub](https://img.shields.io/badge/≡-GitHub-181717?logo=GitHub&style=flat-square&labelColor=282828)](https://github.com/)
 
 ---

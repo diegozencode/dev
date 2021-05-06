@@ -1,0 +1,30 @@
+h1 {
+  color: green;
+}
+
+h1,
+h2 {
+  font-family: Georgia, serif;
+  text-align: center;
+}
+
+p {
+  line-height: 25px;
+}
+
+a {
+  text-decoration-line: none;
+}
+
+a:hover {
+  text-decoration-line: underline;
+}
+
+.upper {
+  text-transform: uppercase;
+}
+
+.float-img {
+  padding: 0 20px 0;
+  float: left;
+}
