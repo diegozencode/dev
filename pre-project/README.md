@@ -4,7 +4,7 @@
 
 Write the appropiate HTML and CSS to make it look like the following
 
-![Final result](https://coursework.vschool.io/content/images/2015/07/exercise1-solution.png#thumbnail)
+![Final result](https://coursework.vschool.io/content/images/2017/04/Screen-Shot-2017-04-25-at-11.06.39-AM.png)
 
 ## Technologies & Tools:computer:
 
